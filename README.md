@@ -19,9 +19,11 @@ I'm committing to improving my backend development skills with **consistent, dai
 |-----|------------|-------------------------------|---------------------|
 | 1   | 2025-06-18 | Practiced String Reversal     | [Day01](./Day01.md) |
 | 2   | 2025-06-18 | Palindrome Checker in Java    | [Day02](./Day02.md) |
+| 3   | 2025-06-18 | Factorial Calculator using Loop | [Day03](./Day03.md) |
+
+
 
 ---
-
 ## 🛠️ Tools & Tech
 
 - Java 17+
