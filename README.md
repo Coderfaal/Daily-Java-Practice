@@ -15,12 +15,13 @@ I'm committing to improving my backend development skills with **consistent, dai
 
 ## 📅 Daily Logs
 
-| Day | Date       | Summary                          | Link         |
-|-----|------------|----------------------------------|--------------|
-| 1   | YYYY-MM-DD | Created Student Marks Manager app | [Day01](Day01.md) |
-| 2   | ———        | To be updated…                   | Coming soon  |
+| Day | Date       | Summary                       | Link                |
+|-----|------------|-------------------------------|---------------------|
+| 1   | 2025-06-18 | Practiced String Reversal     | [Day01](./Day01.md) |
+| 2   | —          | To be updated…                | Coming soon         |
 
-> ✍️ *Click on the links to read detailed logs.*
+✍️ _Click on the links to read detailed logs._
+
 
 ---
 
