@@ -1,9 +1,10 @@
-# ✅ Day 1 - Spring Boot Project Setup
+# 📅 Day 01 - Java Practice
 
-- Created `student-marks-manager` Spring Boot project
-- Learned to:
-    - Set up entities, repositories, and controllers
-    - Use in-memory H2 database
-    - Test REST APIs using Postman
-    - Push full working project to GitHub
-- Set up this daily practice repo to keep contributions active 🟢
+### 🔹 Topic Covered:
+- Basic String Handling
+
+### ✅ Practice Done:
+- ✅ Reversed a string using `StringBuilder`
+
+### 📂 Code File:
+[ReverseString.java](https://github.com/Coderfaal/Daily-Java-Practice/blob/main/src/main/java/corejava/strings/ReverseString.java)
