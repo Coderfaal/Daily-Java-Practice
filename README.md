@@ -18,10 +18,7 @@ I'm committing to improving my backend development skills with **consistent, dai
 | Day | Date       | Summary                       | Link                |
 |-----|------------|-------------------------------|---------------------|
 | 1   | 2025-06-18 | Practiced String Reversal     | [Day01](./Day01.md) |
-| 2   | —          | To be updated…                | Coming soon         |
-
-✍️ _Click on the links to read detailed logs._
-
+| 2   | 2025-06-18 | Palindrome Checker in Java    | [Day02](./Day02.md) |
 
 ---
 
