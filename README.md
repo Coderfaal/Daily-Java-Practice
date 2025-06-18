@@ -36,6 +36,18 @@ I'm committing to improving my backend development skills with **consistent, dai
 
 ---
 
+## 🎧 Coding Vibes
+
+Sometimes, a good playlist is all you need to stay in flow.
+
+- [Lofi Beats for Focus 💭](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+- [Spotify: Focus Flow 🔥](https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ)
+- [Coding Instrumentals 🎹](https://open.spotify.com/playlist/4BKTjHf4kQNVUQ1x5UqZQo)
+
+🧠 Music helps me code better and feel better. What’s your go-to jam?
+
+---
+
 ## 🙋‍♀️ About Me
 
 **Falguni Nargund**  
