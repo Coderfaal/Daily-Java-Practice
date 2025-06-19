@@ -4,3 +4,7 @@ This package contains basic loop-related Java problems and solutions to strength
 
 ### ✔ Examples:
 - Factorial Calculator
+-Fibonacci series
+- Armstrong number
+- Prime number check
+- Multiplication table

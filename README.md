@@ -15,12 +15,12 @@ I'm committing to improving my backend development skills with **consistent, dai
 
 ## 📅 Daily Logs
 
-| Day | Date       | Summary                       | Link                |
-|-----|------------|-------------------------------|---------------------|
-| 1   | 2025-06-18 | Practiced String Reversal     | [Day01](./Day01.md) |
-| 2   | 2025-06-18 | Palindrome Checker in Java    | [Day02](./Day02.md) |
-| 3   | 2025-06-18 | Factorial Calculator using Loop | [Day03](./Day03.md) |
-
+| Day | Date       | Summary                             | Link                |
+|-----|------------|-------------------------------------|---------------------|
+| 1   | 2025-06-18 | Practiced String Reversal           | [Day01](./Day01.md) |
+| 2   | 2025-06-18 | Palindrome Checker in Java          | [Day02](./Day02.md) |
+| 3   | 2025-06-18 | Factorial Calculator using Loop     | [Day03](./Day03.md) |
+| 4   | 2025-06-19 | Find Second Largest in Array        | [Day04](./Day04.md) |
 
 
 ---
