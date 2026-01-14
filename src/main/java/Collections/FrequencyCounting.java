@@ -1,0 +1,23 @@
+package Collections;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class FrequencyCounting {
+
+
+    public static void main(String[] args) {
+
+
+
+        String s = "aabbccdda";
+
+        Map<Character,Integer> frequency = new HashMap<>();
+
+        for(char c :s.toCharArray()){
+            frequency.put(c,frequency.getOrDefault(c,0)+1);
+        }
+        System.out.println(frequency);
+
+    }
+}
